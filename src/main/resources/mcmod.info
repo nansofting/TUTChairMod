@@ -1,0 +1,15 @@
+[
+{
+  "modid": "tutchair",
+  "name": "TUT Chair Mod",
+  "description": "TUT Chair Mod provides your best moment in TUT Life. GO TO THE FUTURE!!!",
+  "version": "1.0.0",
+  "mcversion": "1.8",
+  "url": "https://twitter.com/Nan_Nansofting",
+  "authorList": ["Nan"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

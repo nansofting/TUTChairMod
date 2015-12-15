@@ -1,0 +1,8 @@
+{
+    "variants": {
+		"facing=east": {"model": "tutchair:tut_chair_block", "y": 270},
+		"facing=south": {"model": "tutchair:tut_chair_block", "y": 0},
+		"facing=west": {"model": "tutchair:tut_chair_block", "y": 90},
+		"facing=north": {"model": "tutchair:tut_chair_block", "y": 180}
+    }
+}
